@@ -1,4 +1,4 @@
-# 🧩 Microsoft Fabric – Code Snippets
+# ![Microsoft Fabric Logo](~/fabric-logo.png) Microsoft Fabric – Code Snippets
 
 Welcome to **CodeSnippets** – a collection of reusable scripts that can simplify and accelerate work with **Microsoft Fabric**.  
 This repository is designed as a toolbox: each folder contains one or more scripts focused on specific tasks (automation, administration, troubleshooting, deployment).
