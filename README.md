@@ -14,19 +14,15 @@ This repository is designed as a toolbox: each folder contains one or more scrip
 ---
 
 ## ⚙️ Repository Structure
+
 Current folders:
 
-- **`Check-And-Pause-Fabric`**  
-  Scripts for detecting Fabric capacity activity and pausing when idle (e.g., auto-pause runbooks).  
+- [**Pause and Resume Fabric Capacity**](https://github.com/astrzala/CodeSnippets/tree/main/Pause%20and%20Resume%20Fabric%20Capacity)  
+  Scripts for pausing and resuming Microsoft Fabric capacities on demand. Useful for cost optimization and manual control.  
 
-- **`Run-Scripts`**  
-  General-purpose scripts for executing Fabric and Azure-related tasks.  
+- [**Pause and Resume Fabric Capacity (Activity)**](https://github.com/astrzala/CodeSnippets/tree/main/Pause%20and%20Resume%20Fabric%20Capacity%20(Activity))  
+  Enhanced scripts that detect Fabric capacity activity and automatically pause when idle (e.g., for Azure Automation Runbooks).  
 
-> More folders will be added over time as the collection grows.
+> More folders and scripts will be added over time as the collection grows.
 
 ---
-
-## 🚀 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/astrzala/CodeSnippets.git
