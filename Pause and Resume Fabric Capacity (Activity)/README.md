@@ -89,4 +89,16 @@ Runbook logs show:
 ---
 
 ## 📌 Example Log Output
+Capacity: fabricdev01 | State=Active | SKU=F2 | Loc=Poland Central
+Metrics: Interactive=0, Background=2, Any=2
+=== Activity kinds in window (Type × Operation → Count) ===
+Background | Refresh → 2
+=== Recent activity details (top 10) ===
+Background | Refresh | Completed | svc-refresh@appid | 2025-09-07T18:00:00Z
+Recent activity (<= 90 min): True
+Activity detected -> skip suspend.
 
+---
+
+## 📝 License
+MIT – feel free to adapt and extend.
