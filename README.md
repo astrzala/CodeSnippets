@@ -1,4 +1,7 @@
-# ![Microsoft Fabric Logo](|/fabric-logo.png) Microsoft Fabric – Code Snippets
+<h1>
+  <img src="~/Fabric_256.svg" alt="Microsoft Fabric Logo" width="40" style="vertical-align: middle;"/>
+  Microsoft Fabric – Code Snippets
+</h1>
 
 Welcome to **CodeSnippets** – a collection of reusable scripts that can simplify and accelerate work with **Microsoft Fabric**.  
 This repository is designed as a toolbox: each folder contains one or more scripts focused on specific tasks (automation, administration, troubleshooting, deployment).
