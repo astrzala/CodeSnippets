@@ -1,5 +1,5 @@
 <h1>
-  <img src="~/Fabric_256.svg" alt="Microsoft Fabric Logo" width="40" style="vertical-align: middle;"/>
+  <img src="~/Fabric_256.svg" alt="Microsoft Fabric Logo" width="30" style="vertical-align: middle;"/>
   Microsoft Fabric – Code Snippets
 </h1>
 
